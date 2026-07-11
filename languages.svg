@@ -134,16 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #DA5B0B; 
-  width: 97.455%;
+  width: 97.420%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 1.948%;
+  width: 1.947%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
   width: 0.470%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 0.123%;
+" class="progress-item"></span><span style="
+  background-color: #3178c6; 
+  width: 0.035%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.002%;
@@ -170,7 +173,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Jupyter Notebook</span>
-  <span class="percent">97.45%</span>
+  <span class="percent">97.42%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -224,6 +227,22 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
+      style="fill: #3178c6;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">TypeScript</span>
+  <span class="percent">0.04%</span>
+</li>
+<li style="animation-delay: 900ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
       style="fill: #89e051;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -236,7 +255,7 @@ div.ellipsis {
   <span class="lang">Shell</span>
   <span class="percent">0.00%</span>
 </li>
-<li style="animation-delay: 900ms;">
+<li style="animation-delay: 1050ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
